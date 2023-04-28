@@ -4,7 +4,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=eduhorta&label=Profile%20views&color=0e75b6&style=flat" alt="eduhorta" /> </p>
 
 <div align="center">  
-🌱 I’m currently learning **Javascript | Typescript | React | Redux **
 
 👨‍💻 All of my projects are available at [https://portfolio2k23-seven.vercel.app/](https://portfolio2k23-seven.vercel.app/)
 
