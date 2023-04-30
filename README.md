@@ -9,7 +9,7 @@
  </div> 
  </br>
 <div align="center">
-🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://portfolio2k23-seven.vercel.app'>Portfolio</a>
+🖥️  See my portfolio at <a target="_blank" href='https://portfolio2k23-seven.vercel.app'>Portfolio</a>
  </div>
 
 <h3 align="center">Languages and Tools that I'm learning:</h3>
