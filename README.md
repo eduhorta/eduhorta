@@ -6,6 +6,10 @@
  <div align="center"> 
 <a href = "mailto:eduhorta89@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 <a href="https://www.linkedin.com/in/eduardo-horta-9a8453a5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div> 
+ </br>
+<div align="center">
+🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://stefantopalovicdev.vercel.app](https://portfolio2k23-seven.vercel.app'>Portfolio</a>
  </div>
 
 <h3 align="center">Languages and Tools that I'm learning:</h3>
