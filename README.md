@@ -12,7 +12,7 @@
 🖥️  See my portfolio at <a href='https://portfolio2k23-seven.vercel.app'>Portfolio</a>
  </div>
 
-<h3 align="center">Languages and Tools that I'm learning:</h3>
+<h3 align="center">Skills</h3>
 <p align="center"><img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,redux,next" /></p>
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eduhorta&show_icons=true&count_private=true&hide_border=true&title_color=0284c7&icon_color=0284c7&text_color=fff&bg_color=0d1117" alt="eduhorta github stats" /> 
