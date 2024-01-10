@@ -14,7 +14,3 @@
 
 <h3 align="center">Skills</h3>
 <p align="center"><img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,redux,next,nodejs,postgresql,docker,express,mongodb" /></p>
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eduhorta&show_icons=true&count_private=true&hide_border=true&title_color=0284c7&icon_color=0284c7&text_color=fff&bg_color=0d1117" alt="eduhorta github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduhorta&layout=compact&hide_border=true&title_color=0284c7&text_color=fff&bg_color=0d1117" />
-</div>
