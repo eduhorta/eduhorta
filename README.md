@@ -7,10 +7,6 @@
 <a href = "mailto:eduhorta89@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 <a href="https://www.linkedin.com/in/eduardo-horta-9a8453a5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div> 
- </br>
-<div align="center">
-🖥️  See my portfolio at <a href='https://eduardohorta.vercel.app'>Portfolio</a>
- </div>
 
 <h3 align="center">Skills</h3>
 <p align="center"><img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,redux,next,nodejs,postgresql,docker,express,mongodb" /></p>
